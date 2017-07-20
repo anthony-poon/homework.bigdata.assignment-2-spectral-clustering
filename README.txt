@@ -1,3 +1,5 @@
+Assignemnt 2 for big data class in CUHK master program. This is an implementation of spectral clustering
+
 Requirement: 
 	JDK 1.8+
 	Maven
